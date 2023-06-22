@@ -1,0 +1,2 @@
+module DealerRegistrationsHelper
+end
